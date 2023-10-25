@@ -1,9 +1,11 @@
 # HousingPricePredictions_inMelbourne
 Dataset
 
-Melbourne is the capital and largest city of the Australian state of Victoria, and the second-most populous city in both Australia and Oceania. The dataset contains several attributes of the houses in Melbourne 
+Melbourne is the capital and largest city of the Australian state of Victoria, and the second-most populous city in both Australia and Oceania. 
 
-along with their prices. Dataset link:  https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market/?select=Melbourne_housing_FULL.csv
+The dataset contains several attributes of the houses in Melbourne along with their prices. 
+
+Dataset link:  https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market/?select=Melbourne_housing_FULL.csv
 
 The variables in the data set:
 
