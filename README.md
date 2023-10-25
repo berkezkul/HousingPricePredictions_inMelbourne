@@ -1,4 +1,9 @@
 # HousingPricePredictions_inMelbourne
+
+![Resim Açıklaması](
+https://github.com/berkezkul/HousingPricePredictions_inMelbourne/blob/main/melbourne.png)
+
+
 Dataset
 
 Melbourne is the capital and largest city of the Australian state of Victoria, and the second-most populous city in both Australia and Oceania. 
